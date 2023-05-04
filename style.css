@@ -104,13 +104,13 @@ p {
   }
 
   100% {
-    transform: translateX(52vw);
+    transform: translateX(53vw);
   }
 }
 
 @keyframes enter {
   0% {
-    transform: translateX(52vw);
+    transform: translateX(53vw);
   }
 
   100% {
