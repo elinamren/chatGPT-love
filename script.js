@@ -90,7 +90,6 @@ function speak(text, voiceName) {
     msg.voice = voice;
   }
 
-  
   // Konfigurera inställningar för röstsyntes
   msg.volume = 1; // volymen (0-1)
   msg.rate = 1; // talarhastighet (0.1-10)
