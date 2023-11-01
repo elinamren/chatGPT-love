@@ -13,3 +13,5 @@ _Last updated: 4 May 2023_
 ✨ HTML  
 ✨ CSS  
 ✨ Vanilla JS
+
+-> [With 💜 from ChatGPT](https://elinamren.github.io/chatGPT-love/)
